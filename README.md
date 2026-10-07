@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Texto alternativo](ruta/o/enlace/de/la/imagen.png)
+! MIKU (RecursosG/miku.png)
