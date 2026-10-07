@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola Gente!! 👋
 
 <!--
 **Edgard1288/Edgard1288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MIKU](RecursosG/miku.png)
+<img src="RecursosG/miku.png" alt="Texto alternativo" width="300">
