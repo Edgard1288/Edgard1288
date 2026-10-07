@@ -1,3 +1,18 @@
+<div class="contenedor-principal">
+        <model-viewer 
+            id="visor-3d" 
+            class="Nombre3d"
+            src="RecursosG/nombre3D.glb" 
+            camera-orbit="0deg 90deg 15m" 
+            field-of-view="30deg"
+            interpolation-decay="200"
+            camera-controls   interaction-prompt="none"
+            disable-zoom
+            disable-pan
+            alt="Modelo 3D Edgard"
+        ></model-viewer>
+    </div>
+
 ## Hola Gente!! 👋
 
 <!--
